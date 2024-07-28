@@ -1,4 +1,4 @@
-# Cryptography Tool
+# CryptoApply Tool
 
 This is a simple cryptography tool that can encrypt and decrypt text using four different algorithms: Shift, XOR, DES, and AES. The tool features a simple GUI built with Python.
 
